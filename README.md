@@ -17,3 +17,4 @@ Create a new file, `custom-roll.js`, that prompts the user for how many sides th
 ## `rigged-dice.js`
 
 Create a new file, `rigged-dice.js`, which prompts the user for a rigged number using a 6-sided die. The dice should roll the rigged number twice as frequently as the other numbers!
+
